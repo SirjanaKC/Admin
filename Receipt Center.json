@@ -1,0 +1,31 @@
+{
+    "View all Receipts":"सबै रसिदहरू हेर्नुहोस्",
+   "PRINT":"छाप्नुहोस्",
+   "Cash Receipt":"नगद रसिद",
+   "Receipt No":"रसिद नं",
+   "Propritor’s Name:":"मालिकको नाम:",
+   "Representative Number:":"प्रतिनिधि संख्या:",
+   "PAN":"प्यान",
+   "Description":"विवरण",
+   "Amount":"रकम",
+   "Remark":"टिप्पणी",
+   "Action":"कार्य",
+   "Sum Total":"कुल योग",
+   "Rs":"रु",
+   "Amount In Words":"शब्दमा रकम",
+   "Zero Rupees Only":"शून्य रुपैया मात्र",
+   "Cash":"नगद",
+   "Esewa":"ईसेवा",
+   "Bank":"बैंक",
+   "Charge Head":"चार्ज हेड",
+   "New charges":"नयाँ शुल्कहरू",
+   "Add":"थप्नुहोस्",
+   "Charges":"शुल्क",
+
+   "Create Charges":"शुल्कहरू सिर्जना गर्नुहोस्",
+   "Name Of Charges":"शुल्कको नाम",
+   "Price Of Charge":"Price Of Charge"
+   
+   
+   
+}

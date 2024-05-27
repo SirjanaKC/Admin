@@ -1,0 +1,26 @@
+{
+    "Budget Monitoring":"बजेट अनुगमन",
+    "Budget Overview":"बजेट अवलोकन",
+    "View in Chart":"चार्टमा हेर्नुहोस्",
+    "Add Budget":"बजेट थप्नुहोस्",
+    "sort by":"द्वारा क्रमबद्ध+"
+     "Ascending":"आरोहण",
+    "Descending":"अवरोही",
+    "Income":"आय",
+    "Expense":"खर्च",
+    "PROGRAM":"कार्यक्रम",
+    "CATEGORY":"श्रेणी",
+    "ISSUED BUDGET":"जारी गरिएको बजेट",
+    "USED BUDGET":"प्रयोग गरिएको बजेट",
+    "BALANCED":"सन्तुलित",
+    "BUDGET TYPE":"बजेट प्रकार",
+    "TOTAL CREDIT":"कुल क्रेडिट",
+    "TOTAL DEBIT":"कुल डेबिट",
+    "SUBBUDGETS":"उप बजेटहरू",
+    "Add Budget For":"को लागि बजेट थप्नुहोस्",
+    "Mention the program information for which budget is to be issued!":"कुन कार्यक्रमको लागि बजेट जारी गर्ने कार्यक्रम जानकारी उल्लेख गर्नुहोस्!",
+    "Program Name":"कार्यक्रमको नाम",
+    "Budget Issued":"बजेट जारी"
+  
+
+}
